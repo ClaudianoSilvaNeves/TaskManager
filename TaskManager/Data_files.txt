@@ -1,0 +1,108 @@
+Name: Flexão
+Type: Exercises
+Days: Sunday, Thursday
+Time: 1
+Concluded: false
+
+Name: sdf
+Type: Studies
+Days: Sunday
+Time: 1
+Concluded: false
+
+Name: sdf
+Type: Studies
+Days: Sunday
+Time: 1
+Concluded: false
+
+Name: sdf
+Type: Studies
+Days: Sunday
+Time: 1
+Concluded: false
+
+Name: sdf
+Type: Studies
+Days: Sunday
+Time: 1
+Concluded: false
+
+Name: sdf
+Type: Studies
+Days: Sunday
+Time: 1
+Concluded: false
+
+Name: sdf
+Type: Studies
+Days: Sunday
+Time: 1
+Concluded: false
+
+Name: sdf
+Type: Studies
+Days: Sunday
+Time: 1
+Concluded: false
+
+Name: qa
+Type: Studies
+Days: Sunday
+Time: 1
+Concluded: false
+
+Name: qa
+Type: Studies
+Days: Sunday
+Time: 1
+Concluded: false
+
+Name: a
+Type: Studies
+Days: Sunday, Monday
+Time: 1
+Concluded: false
+
+Name: a
+Type: Studies
+Days: Sunday, Monday
+Time: 1
+Concluded: false
+
+Name: a
+Type: Studies
+Days: Sunday, Monday
+Time: 1
+Concluded: false
+
+Name: a
+Type: Studies
+Days: Sunday, Monday
+Time: 1
+Concluded: false
+
+Name: a
+Type: Studies
+Days: Sunday, Monday
+Time: 1
+Concluded: false
+
+Name: a
+Type: Studies
+Days: Sunday, Monday
+Time: 1
+Concluded: false
+
+Name: a
+Type: Studies
+Days: Sunday, Monday
+Time: 1
+Concluded: false
+
+Name: a
+Type: Studies
+Days: Sunday, Monday, Wednesday, Thursday, Saturday
+Time: 1
+Concluded: false
+
